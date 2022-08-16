@@ -1,8 +1,8 @@
 ### Hi there my name is Matheus Waked França.👋
 
-- 🔭 Game Programmer using Unity.
+- 🔭 Fullstack Developer .Net | React | Python
 - 🌱 Computer Science.
-- 👯 Game development programming and other programming.
+- 👯 Web developing | API .
 - 🤔 Becoming a better developer.
 - 💬 Open to talk
 - 📫 matheus363@hotmail.com.
