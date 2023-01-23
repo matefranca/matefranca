@@ -1,6 +1,6 @@
 ### Hi there my name is Matheus Waked França.👋
 
-- 🔭 Fullstack Developer .Net | React | Python
+- 🔭 Fullstack Developer Java | .Net | React | Python
 - 🌱 Computer Science.
 - 👯 Web developing | API .
 - 🤔 Becoming a better developer.
