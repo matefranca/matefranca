@@ -1,10 +1,10 @@
 ### Hi there my name is Matheus Waked França.👋
 
-- 🔭 Fullstack Developer Java | .Net | React | Python
+- 🔭 Fullstack Developer Java | Spring | AWS | React 
 - 🌱 Computer Science.
-- 👯 Web developing | API .
+- 👯 Web developing | API.
 - 🤔 Becoming a better developer.
-- 💬 Open to talk
+- 💬 Open to talk.
 - 📫 matheus363@hotmail.com.
 
 <div align="center">
@@ -15,13 +15,12 @@
 </div>
 
 <div style="display: inline_block" "background-color:#000000><br>
+  <img align="center" alt="matefranca-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="matefranca-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">               
   <img align="center" alt="matefranca-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="matefranca-Unity" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg">
-  <img align="center" alt="matefranca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="matefranca-Git" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="matefranca-GitHub" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="matefranca-Linux" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="matefranca-Ps" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="matefranca-Cpp" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="matefranca-C" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  
